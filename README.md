@@ -1,5 +1,5 @@
 # CATopalian JavaScript Teacher
-A JavaScript application that helps people learn any subject by flashing words of a specific topic at a specified speed. In particual project we are learning JavaScript using the app.  
+A JavaScript application that helps people learn any subject by flashing words of a specific topic at a specified speed. In particular project we are learning JavaScript using the app.  
 
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
