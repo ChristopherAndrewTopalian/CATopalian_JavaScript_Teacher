@@ -1,6 +1,8 @@
 # CATopalian JavaScript Teacher
 A JavaScript application that helps people learn any subject by flashing words of a specific topic at a specified speed. In particular project we are learning JavaScript using the app.  
 
+USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Teacher/CATopalian_JavaScript_Teacher.html
+
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
 ---
