@@ -3,6 +3,8 @@ A JavaScript application that helps people learn any subject by flashing words o
 
 USE APP: https://christopherandrewtopalian.github.io/CATopalian_JavaScript_Teacher/CATopalian_JavaScript_Teacher.html
 
+![screenshot_001](src/media/textures/screenshots/001.JPG)  
+
 If you enjoy my apps and tutorials please consider buying me a coffee at [paypal.me/keystonermarch](https://www.paypal.com/paypalme/keystonermarch)  
 
 ---
