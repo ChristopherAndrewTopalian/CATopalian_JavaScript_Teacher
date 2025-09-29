@@ -2,22 +2,25 @@
 
 function makeTitleOfApp()
 {
-    // titleContainer
-    let titleContainer = ce('div');
-    titleContainer.style.position = 'absolute';
-    titleContainer.style.right = '10px';
-    titleContainer.style.bottom = '5px';
-    titleContainer.style.zIndex = 1;
-    ba(titleContainer);
+    let mainDiv = ce('div');
+    mainDiv.style.position = 'absolute';
+    mainDiv.style.right = '10px';
+    mainDiv.style.bottom = '10px';
+    mainDiv.style.zIndex = 1;
+    ba(mainDiv);
 
     //-//
 
-    // titleText
-    let titleText = ce('div');
-    titleText.className = 'titleStyle001';
-    titleText.innerHTML =
-    `<a href = 'https://github.com/christopherandrewtopalian/' target = '_blank'> CATopalian JavaScript Teacher </a>`;
-    titleContainer.append(titleText);
+    let titleOfApp = ce('a');
+    titleOfApp.id = 'titleOfApp';
+    titleOfApp.textContent = 'CATopalian JavaScript Teacher';
+    titleOfApp.href = 'https://github.com/ChristopherAndrewTopalian/CATopalian_JavaScript_Teacher';
+    titleOfApp.target = '_blank';
+    titleOfApp.style.fontSize = '17px';
+    titleOfApp.style.fontWeight = 'bold';
+    titleOfApp.style.textDecoration = 'none';
+    titleOfApp.style.color = 'rgb(100, 100, 100)';
+    mainDiv.append(titleOfApp);
 }
 
 //----//
